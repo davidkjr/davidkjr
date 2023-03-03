@@ -1,6 +1,6 @@
-# davidkjr 😂🤣😂🤣😂🤣😂
+# David Kröni Júnior
 
-##cabeçalho secundario
+## Hi cabeçalho secundario
 
 *texto em italico*
 
@@ -18,3 +18,6 @@ $%HI%$
 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+![This is an image](https://forbes.com.br/wp-content/uploads/2022/12/Life_overall-winner-land-category-winner_jennifer-hadley_not-so-cat-like-reflexes.jpg)
